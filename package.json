@@ -21,5 +21,9 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^6.1.0",
     "hardhat": "^2.26.1"
+  },
+  "dependencies": {
+    "@1inch/limit-order-protocol-contract": "^4.3.2",
+    "@openzeppelin/contracts": "^5.4.0"
   }
 }
